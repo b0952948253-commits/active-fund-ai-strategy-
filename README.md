@@ -1,3 +1,5 @@
+![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/b0952948253-commits/fund-review)
+
 # 主動基金 ML 擇時與均線規則的實證檢驗
 
 > 以安聯台灣大壩基金（A 類型、新臺幣）的淨值為研究對象，檢討一份「機器學習 + 總經指標避險」報告，  
